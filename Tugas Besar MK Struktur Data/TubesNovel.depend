@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655394415 source:d:\code blocks\tubesnovel\body.cpp
+	"header.h"
+
+1655394856 d:\code blocks\tubesnovel\header.h
+	<iostream>
+	<string>
+
+1683283565 source:d:\code blocks\tubesnovel\main.cpp
+	"header.h"
+
